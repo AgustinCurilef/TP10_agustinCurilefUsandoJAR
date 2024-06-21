@@ -5,7 +5,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_0/Framework_v1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_1/framework_v1.1/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_2/framework_v1.2/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_3/framework_v1.3/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_0/Framework_v1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_1/framework_v1.1/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_2/framework_v1.2/pom.xml" />
+        <option value="$PROJECT_DIR$/../TP_10-Frameworks/out/artifacts/framework_v1_3/framework_v1.3/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">

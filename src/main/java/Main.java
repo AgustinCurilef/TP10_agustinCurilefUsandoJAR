@@ -1,6 +1,6 @@
 import Curilef.framework.framework;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         try {
             //framework framework = new framework("src/main/resources/config.properties");
